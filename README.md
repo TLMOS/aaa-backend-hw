@@ -1,4 +1,4 @@
-# AAA Backend Homework Plate Number Reader
+# AAA Backend Homework
 This is a simple flask application that reads the plate number from an image and returns the plate number in JSON format.
 
 ## API
